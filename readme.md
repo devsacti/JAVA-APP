@@ -11,7 +11,8 @@ IDE-BuildTOOl : Intellij-Gradle
 
 Overview : server communication by java controller/OpenAPI, JPA-h2
 
-## spring prj
-IDE-BuildTool : eclipse-maven
+## spring prj(review)
+🚩 강의자료 첨부 cuz AWS EC2,RDB root 계정정보 노출방지
+IDE-BuildTool : sts4-maven
 
 Overview : jsp, jquery, java Controller/OpenAPI, mybatis-AWS RDS3, S3
