@@ -12,7 +12,7 @@ IDE-BuildTOOl : Intellij-Gradle
 Overview : server communication by java controller/OpenAPI, JPA-h2
 
 ## review
-🚩 강의자료 첨부 cuz AWS EC2,RDB root 계정정보 노출방지
+🚩 제공된 강의자료임, for AWS EC2,RDB root 계정정보 노출방지
 
 IDE-framework-BuildTool : sts4-spring-maven
 
