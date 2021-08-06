@@ -13,6 +13,7 @@ Overview : server communication by java controller/OpenAPI, JPA-h2
 
 ## review
 🚩 강의자료 첨부 cuz AWS EC2,RDB root 계정정보 노출방지
+
 IDE-framework-BuildTool : sts4-spring-maven
 
 Overview : jsp, jquery, java Controller/OpenAPI, mybatis-AWS RDS3, S3
