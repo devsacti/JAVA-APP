@@ -1,5 +1,7 @@
 # JAVA-APP LIST
-## devsacti-springboot2-webservice
+click the prj name and Go to repo
+
+## [devsacti-springboot2-webservice](https://github.com/devsacti/devsacti-springboot2-webservice)
 IDE-BuildTool : Intellij-Gradle
 
 Overview : mustache, jquery, java Controller/OpenAPI, JPA-AWS RDS, AWS EC2 to deploy
