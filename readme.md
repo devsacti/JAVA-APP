@@ -11,8 +11,8 @@ IDE-BuildTOOl : Intellij-Gradle
 
 Overview : server communication by java controller/OpenAPI, JPA-h2
 
-## review
-🚩 제공된 강의자료임, for AWS EC2,RDB root 계정정보 노출방지
+## [review](https://bitbucket.org/devsacti/devsacti-spring-webservice/src/master/)
+🚩 AWS EC2,RDB root 계정정보 노출방지 차원에서 제공된 강의자료 푸시 수업에 따라 bitbucket 활용, for 
 
 IDE-framework-BuildTool : sts4-spring-maven
 
