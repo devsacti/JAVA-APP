@@ -7,9 +7,11 @@ IDE-BuildTool : Intellij-Gradle
 Overview : mustache, jquery, java Controller/OpenAPI, JPA-AWS RDS, AWS EC2 to deploy
 
 ## springboot2-practice
-IDE-BuildTOOl : Intellij-Gradle
+IDE-BuildTOOl : Intellij-Gradle 6.x
 
 Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
+
+[devsacti-springboot2-todolist](https://github.com/devsacti/devsacti-springboot2-todolist)
 
 [springboot-client](https://github.com/devsacti/springboot-client)
 
