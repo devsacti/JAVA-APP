@@ -21,7 +21,8 @@ IoC 개념에 의해 spring 상에서 '객체'란 '빈(bean)'이라는 개념으
 
 [참조링크](https://gmlwjd9405.github.io/2018/11/09/dependency-injection.html)
 
-### AOP
+### AOP : Aspect Oriented Programming
+
 
 
 
