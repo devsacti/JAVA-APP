@@ -1,1 +1,28 @@
-# spring vs spring boot
+# Spring like spring legacy, spring boot, spring cloud ~
+
+java EE와 같은 플랫폼 상에서 개발된 앱의 경우, (아마)모듈간 높은 결합도 등으로 인해 코딩 분업도 어렵지만, 단일테스트가 어려움
+
+=>느슨한 결합과 테스트 용이성을 위해 Spring이란 프레임워크가 개발됨
+
+## features
+IoC/DI : Inversion of Control / Dependency Injection
+
+기존에 개발자가 new를 통해서 Java 객체를 생성 및 제어하던 방식을 벗어나, Java 객체를 Spring Container에 모두 전임_IoC
+
+/
+
+IoC 개념에 의해 spring 상에서 '객체'란 '빈(bean)'이라는 개념으로 재설정되고
+
+이러한 bean 단위와 추상객체와 인터페이스 등을 활용하여
+
+프레임워크인 spring에 의해서 기존의 상속이나 타 클래스 내 이종클래스 선언 등의 참조가 '대신' 진행됨_DI
+
+[참조링크](https://gmlwjd9405.github.io/2018/11/09/dependency-injection.html)
+
+AOP
+
+
+
+PSA
+
+# Spring Legacy vs Spring boot
