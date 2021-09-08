@@ -23,6 +23,7 @@ IoC 개념에 의해 spring 상에서 '객체'란 '빈(bean)'이라는 개념으
 
 ### AOP : Aspect Oriented Programming
 
+(의역)중심형상 중심 프로그래밍, 모듈 지향 프로그래밍
 
 
 
