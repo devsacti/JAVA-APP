@@ -11,21 +11,39 @@ java EE와 같은 플랫폼 상에서 개발된 앱의 경우, (아마)모듈간
 
 /
 
-IoC 개념에 의해 spring 상에서 '객체'란 '빈(bean)'이라는 개념으로 재설정되고
+IoC 개념에 의해 기존 '객체'는 spring 상에서의 '빈(bean)'이라는 개념이자 단위로 맵핑될 수 있어지고, 추상화와 상속 등의 특성을 승계한다.
 
-이러한 bean 단위와 추상객체와 인터페이스 등을 활용하여
-
-프레임워크인 spring에 의해서 기존의 상속이나 타 클래스 내 이종클래스 선언 등의 참조가 '대신' 진행됨_DI
+이러한 bean은 spring IoC container에 저장되고, container가 상속이나 타 클래스 내 이종클래스 선언 등의 참조를 '개발자 대신' 진행한다_DI
 
 => 객체 간 의존성 최소화 => 테스트 용이, 코드 확장 용이, 순환참조 방지
+
+
+#### container ?
+
+기존 객체지향의 추상화,상속 등의 기술 외로 새로운 기능이 컨테이너에 있는 것으로 보이진 않고,
+
+(주로 자주 쓸)객체들을 bean이라는 (어쩌면)더 작은 단위로 모듈화한 다음, 
+
+결과적으로 추상화 실현과 재사용성 향상에 충실
+
+* bean : @Componenent annotation을 통해 빈으로 등록된 클래스
+
+* spring (IoC) container : ex) ApplicationContext_xml 파일 형태로 객체 정보가 bean 태그로 저장_, BeanFactory , 
+
+* context in computer science : the minimal set of data used by a task(which may be a process, thread, or fiber)
+
 
 [참조링크](https://gmlwjd9405.github.io/2018/11/09/dependency-injection.html)
 
 ### AOP : Aspect Oriented Programming
 
-(의역)중심형상 중심 프로그래밍, 모듈 지향 프로그래밍
+(의역)다각적 관점의 분석 프로그래밍, 모듈 지향 프로그래밍이되 좀더 아키텍쳐의 관점이 녹아든 것
 
+클래스를 더 세부모듈로 쪼개고, 클래스 간 공통 모듈을 도출하여 재사용성을 높이겠다는 목표
 
+* Aspect : 특정 관점을 기반으로 도출된 독립 모듈 from Target_class, method..
+* advice : 실질적인 부가기능을 담은 구현체
+* jointPoint and Pointcut : 
 
 ### PSA
 
