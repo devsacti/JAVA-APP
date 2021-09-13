@@ -11,7 +11,7 @@ IDE-BuildTOOl : Intellij-Gradle 6.x
 
 Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
 
-[Spring vs Spring boot](./spring%20conception)
+[Spring vs Spring boot](https://github.com/devsacti/JAVA-APP/blob/main/Springs.md)
 
 [devsacti-springboot2-todolist](https://github.com/devsacti/devsacti-springboot2-todolist)
 
