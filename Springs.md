@@ -37,9 +37,8 @@ DI : bean은 추상화,상속 등의 특징들을 승계는데, container가 상
 
 ### AOP : Aspect Oriented Programming
 
-(의역)다각적 관점(web-service-repository)의 프로그래밍(스프링 프레임워크의  맞춤  MVC 커스텀버전)
-
-!! monolitic pattern !! [spring web layer](https://lifelife7777.tistory.com/100)
+(의역)monolithic 다층적 관점(web-business-repository)의 프로그래밍(스프링 프레임워크의 맞춤 MVC 커스텀버전)
+[spring web layer](https://lifelife7777.tistory.com/100)
 
 클래스를 더 세부모듈로 쪼개고, 클래스 간 공통 모듈을 도출하여 재사용성을 높이겠다는 목표
 [참고자료](https://engkimbs.tistory.com/746)
