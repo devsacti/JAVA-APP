@@ -22,9 +22,9 @@ DI : bean은 추상화,상속 등의 특징들을 승계는데, container가 상
 
 #### container ? '보관'의 의미보단, '경계_Border'의 의미로!
 
-기존 객체지향 자바의 추상화,상속를 바탕으로, 주요 객체들을
+기존 객체지향 자바의 추상화,상속를 바탕으로, 주요 객체들을 bean이라는 (어쩌면)더 작은 단위로 모듈화 혹은 캡슐화하여,
 
-bean이라는 (어쩌면)더 작은 단위로 모듈화 혹은 캡슐하여, '객체1 => 객체2 has 객체1 by 개발자'를 '개발자 make context to access bean2 which is injected bean1 by container'
+'객체1 => 객체2 has 객체1 by 개발자'를 '개발자 make context to access bean2 which is injected bean1 by container'
 
 결과적으로 추상화 실현과 재사용성 향상에 충실
 
@@ -37,10 +37,11 @@ bean이라는 (어쩌면)더 작은 단위로 모듈화 혹은 캡슐하여, '�
 
 ### AOP : Aspect Oriented Programming
 
-(의역)다각적 분석 프로그래밍, 기존 모듈지향 프로그래밍을 아키텍쳐에 적극 녹이고자 하는 것으로 이해
+(의역)다각적 관점(web-service-repository)의 프로그래밍(스프링 프레임워크의  맞춤  MVC 커스텀버전)
+
+!! monolitic pattern !! [spring web layer](https://lifelife7777.tistory.com/100)
 
 클래스를 더 세부모듈로 쪼개고, 클래스 간 공통 모듈을 도출하여 재사용성을 높이겠다는 목표
-
 [참고자료](https://engkimbs.tistory.com/746)
 
 * Aspect : 특정 관점을 기반으로 도출된 독립 모듈 from Target_class, method..
