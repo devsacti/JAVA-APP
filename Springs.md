@@ -39,11 +39,17 @@ DI : bean은 추상화,상속 등의 특징들을 승계는데, container가 상
 
 (의역)monolithic 다층적 관점의 프로그래밍(스프링 프레임워크의 맞춤 MVC 커스텀버전)
 
-Web layer                         | DTO
+Web layer                         
 
-Service layer(or Business layer)  | -
+Service layer(or Business layer)  
 
-Repository layer                  | Domain model
+Repository layer                  
+
+| DTO
+
+| -
+
+| Domain model
 
 [spring web layer](https://lifelife7777.tistory.com/100)
 
@@ -61,5 +67,5 @@ Repository layer                  | Domain model
 
 가령, jdbc, jpa는 각각 다른 스텝으로 DB에 접근하나, 스프링 사용 개발자는 (코딩된 숨겨진)스프링 기능을 통해 패스 
 
-# Spring Legacy vs Spring boot
+# Spring Legacy with Maven vs Spring boot with Gradle
 
