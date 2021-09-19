@@ -37,19 +37,29 @@ DI : bean은 추상화,상속 등의 특징들을 승계는데, container가 상
 
 ### AOP : Aspect Oriented Programming
 
-(의역)monolithic 다층적 관점(web-business-repository)의 프로그래밍(스프링 프레임워크의 맞춤 MVC 커스텀버전)
+(의역)monolithic 다층적 관점의 프로그래밍(스프링 프레임워크의 맞춤 MVC 커스텀버전)
+
+Web layer                         | DTO
+
+Service layer(or Business layer)  | -
+
+Repository layer                  | Domain model
+
 [spring web layer](https://lifelife7777.tistory.com/100)
 
-클래스를 더 세부모듈로 쪼개고, 클래스 간 공통 모듈을 도출하여 재사용성을 높이겠다는 목표
-[참고자료](https://engkimbs.tistory.com/746)
+? Service layer vs Business layer [참고링크](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658090(v=pandp.10)?redirectedfrom=MSDN)
 
-* Aspect : 특정 관점을 기반으로 도출된 독립 모듈 from Target_class, method..
-* advice : 실질적인 부가기능을 담은 구현체
-* jointPoint and Pointcut : 
+전통 아키텍쳐에서는 분명 독립 개념이나, 서로 인접 개념으로서 현실에서는 구분이 불명확하게 쓰이기 쉽다고 생각
 
-### PSA
+무엇보다 spring에서는 거의 service라는 용어로 종합된 듯함
+
+물론, spring에도 Domain Model에서 비즈니스 로직이 등장하는데, 현재로선 뚜렷하게 그 구분을 체감하기 힘듦
+
+### PSA : Portable Service Abstraction
+
+(예시)@Transactional 어노테이션만으로 DB 접근의 여러 절차를 자동 지원하게 해주는 스프링 기능
+
+가령, jdbc, jpa는 각각 다른 스텝으로 DB에 접근하나, 스프링 사용 개발자는 (코딩된 숨겨진)스프링 기능을 통해 패스 
 
 # Spring Legacy vs Spring boot
 
-
-#temp
