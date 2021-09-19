@@ -26,7 +26,9 @@ DI : bean은 추상화,상속 등의 특징들을 승계는데, container가 상
 
 기존 객체지향 자바의 추상화,상속를 바탕으로, 주요 객체들을 bean이라는 (어쩌면)더 작은 단위로 모듈화 혹은 캡슐화하여,
 
-'객체1 => 객체2 has 객체1 by 개발자'를 '개발자 make context to access bean2 which is injected bean1 by container'
+'객체1 => 객체2 has 객체1 by 개발자'를
+
+'개발자 make context to access bean2 which is injected bean1 by container'
 
 결과적으로 추상화 실현과 재사용성 향상에 충실
 
