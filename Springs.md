@@ -1,10 +1,12 @@
-# Spring includes spring legacy, spring boot, spring cloud ~
+# Spring framework
+
+like spring legacy, spring boot, spring cloud ~
 
 java EE와 같은 플랫폼 상에서 개발된 앱의 경우, (아마)모듈간 높은 결합도 등으로 인해 코딩 분업도 어렵지만, 단일테스트가 어려움
 
 =>느슨한 결합과 테스트 용이성을 위해 Spring이란 프레임워크가 개발됨
 
-## features
+## Main Features
 ### IoC/DI : Inversion of Control / Dependency Injection
 IoC : 기존에 개발자가 new를 통해서 Java 객체를 생성 및 제어하던 방식을 벗어나, Java 객체 제어 및 관리를 Spring IoC Container에 모두 전임되어 제어권이 뒤바뀌는 것
 
