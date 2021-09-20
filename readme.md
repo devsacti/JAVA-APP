@@ -2,8 +2,8 @@
 click the prj name and Go to repo
 
 ## base conception
-🏴(incomplete)
-[algorithm with java](https://github.com/devsacti/Algorithms_Query/tree/main/Algorithm/java)
+
+[algorithm with java](https://github.com/devsacti/Algorithms_Query/tree/main/Algorithm/java)🏴(no readme)
 
 [Spring](https://github.com/devsacti/JAVA-APP/blob/main/Springs.md)
 
@@ -33,4 +33,4 @@ Overview : jsp, jquery, java Controller/OpenAPI, mybatis-AWS RDS3, S3
 ## related
 [WEB-APP](https://github.com/devsacti/WEB-APP)
 
-[Android-APP](https://github.com/devsacti/Android-APP)
+[Android-APP](https://github.com/devsacti/Android-APP)🏴(no readme)
