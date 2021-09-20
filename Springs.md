@@ -43,17 +43,7 @@ DI : bean은 추상화,상속 등의 특징들을 승계는데, container가 상
 
 (의역)monolithic 다층적 관점의 프로그래밍(스프링 프레임워크의 맞춤 MVC 커스텀버전)
 
-Web layer                         
-
-Service layer(or Business layer)  
-
-Repository layer                  
-
-| DTO
-
-| -
-
-| Domain model
+![spring web layer](https://user-images.githubusercontent.com/88543657/133958708-4a020612-4bc6-4efc-be65-59803cfdd72b.JPG)
 
 [spring web layer](https://lifelife7777.tistory.com/100)
 
