@@ -1,6 +1,12 @@
 # JAVA-APP LIST
 click the prj name and Go to repo
 
+## base conception
+🏴(incomplete)
+[algorithm with java](https://github.com/devsacti/Algorithms_Query/tree/main/Algorithm/java)
+
+[Spring](https://github.com/devsacti/JAVA-APP/blob/main/Springs.md)
+
 ## [devsacti-springboot2-webservice](https://github.com/devsacti/devsacti-springboot2-webservice)
 IDE-BuildTool : Intellij-Gradle
 
@@ -10,8 +16,6 @@ Overview : mustache, jquery, java Controller/OpenAPI, JPA-AWS RDS, AWS EC2 to de
 IDE-BuildTOOl : Intellij-Gradle 6.x
 
 Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
-
-[Spring](https://github.com/devsacti/JAVA-APP/blob/main/Springs.md)
 
 [devsacti-springboot2-todolist](https://github.com/devsacti/devsacti-springboot2-todolist)
 
