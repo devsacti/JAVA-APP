@@ -21,9 +21,9 @@ Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
 
 [devsacti-springboot2-todolist](https://github.com/devsacti/devsacti-springboot2-todolist)
 
-[springboot-client](https://github.com/devsacti/springboot-client)
+[springboot-client](https://github.com/devsacti/springboot-client)🏴(no readme)
 
-[springboot-server](https://github.com/devsacti/springboot-server)
+[springboot-server](https://github.com/devsacti/springboot-server)🏴(no readme)
 
 ## [review](https://bitbucket.org/devsacti/devsacti-spring-webservice/src/master/)
 🚩 AWS EC2,RDB root 계정정보 노출방지 차원에서 제공된 강의자료 푸시 수업에 따라 bitbucket 활용, for 
