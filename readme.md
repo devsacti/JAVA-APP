@@ -6,9 +6,6 @@ click the prj name and Go to repo
 
 
 ## base conception
-
-[algorithm with java](https://github.com/devsacti/Algorithms_Query/tree/main/Algorithm/java)🏴(readme not yet)
-
 [Spring](https://github.com/devsacti/JAVA-APP/blob/main/Springs.md)
 
 ## springboot2-practice
