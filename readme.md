@@ -4,8 +4,6 @@ click the prj name and Go to repo
 ## related fields
 [WEB-APP](https://github.com/devsacti/WEB-APP) ; python&django, vuejs&node.js
 
-[Android-APP](https://github.com/devsacti/Android-APP)🏴(readme not yet)
-
 
 ## base conception
 
