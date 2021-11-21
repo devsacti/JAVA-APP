@@ -4,9 +4,9 @@ click the prj name and Go to repo
 ## related fields
 [WEB-APP](https://github.com/devsacti/WEB-APP)
 
-vuejs&node.js
+- vuejs&node.js
 
-python&django
+- python&django
 
 ## base conception
 [Spring](https://github.com/devsacti/JAVA-APP/blob/main/Springs.md)
