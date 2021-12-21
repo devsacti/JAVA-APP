@@ -20,7 +20,7 @@ Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
 ## Projects
 
 ## [devsacti-review-webservice]()
-🚩 private repo , 추후 aws ec2, RDB 계정정보를 삭제 후 업로드 
+🚩 private repo , 관련 계정 정보 처리 후 별도 업로드 예정 
 
 IDE : sts4
 
