@@ -34,7 +34,7 @@ back-end : java controller
 
 persistence layer & db : mybatis & aws mysql
 
-core refers : [hexagonal](https://medium.com/byungkyu-ju/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%ED%8C%A8%ED%84%B4-2-2%EC%9E%A5-2-2-53e7bd6c6ebf)
+core refers : [hexagonal](https://sejoung.github.io/2021/06/2021-06-24-hexagonal/#%EC%98%88%EC%A0%9C)
 
 ## [devsacti-springboot2-webservice](https://github.com/devsacti/devsacti-springboot2-webservice)
 IDE-BuildTool : Intellij-Gradle
