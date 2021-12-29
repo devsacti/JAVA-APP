@@ -37,6 +37,8 @@ persistence layer & db : mybatis & aws mysql
 core refers : [hexagonal conception](https://sejoung.github.io/2021/06/2021-06-24-hexagonal/#%EC%98%88%EC%A0%9C),
 [hexagonal simple structure](https://stackoverflow.com/questions/66971751/layers-in-hexagonal-architecture)
 
+* hexagonal simple structure 관련하여, 글의 구조와 스택오버플로우의 'You can implement however you want to' 의견 참조
+
 ## [devsacti-springboot2-webservice](https://github.com/devsacti/devsacti-springboot2-webservice)
 IDE-BuildTool : Intellij-Gradle
 
