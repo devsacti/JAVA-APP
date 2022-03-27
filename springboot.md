@@ -1,6 +1,8 @@
 # JAVA-APP Implementaions with spring boot
 
-## springboot2-practice
+## Projects
+
+#### springboot2-practice
 IDE-BuildTOOl : Intellij-Gradle 6.x
 
 Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
@@ -11,8 +13,6 @@ Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
 
 [springboot-server](https://github.com/devsacti/springboot-server)🏴(readme not yet)
 
-
-## Projects
 
 #### [devsacti-review-webservice]()
 🚩 private repo , 관련 계정 정보 처리 후 별도 업로드 예정 
