@@ -25,6 +25,6 @@ CICD : git and github
 
 [WEB-APP](https://github.com/devsacti/WEB-APP)
 
-[before spring framework: servlet mvc2](./servletMvc2.md)
+[BEFORE : servlet mvc2](./servletMvc2.md)
 
-[next spring framework : spring boot](./springboot.md)
+[AFTER : spring boot](./springboot.md)

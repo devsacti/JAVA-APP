@@ -48,7 +48,16 @@ Overview : mustache, jquery, java Controller/OpenAPI, JPA-AWS RDS, AWS EC2 to de
 
 #### [review]()
 
-IDE-framework-BuildTool : sts4-spring-maven
+front : jsp with tiles(3.0.7) 
 
-Overview : jsp, jquery, java Controller/OpenAPI, mybatis-AWS RDS3, S3
+back : java 1.8 and spring boot framework(2.1.9)
 
+persistence framework : org.mybatis.spring.boot mybatis-spring-boot-starter (2.1.0)
+
+database : MySQL 8.0.23
+
+IDE : sts 4.x
+
+CICD : git and github
+
+Appendix : AWS S3, Social login(Kakao), AWS EC2 Deployment
