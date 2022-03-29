@@ -16,8 +16,6 @@ database : oracle 18c
 
 IDE : eclipse with plugin of Spring Tools 3(3.9.14)
 
-CICD : git and github
-
 ##
 
 ## Background
