@@ -49,15 +49,9 @@ Ex) BeanFactory , ApplicationContext
 
 process 1 : (=====)|=====================>
 
-             cross
-
 process 2 : (=====)|=====================>
 
-             cross
-
 process 3 : (=====)|=====================>
-
-			 cross
 
 반복코드를 모듈화하여 중요한 관심사(core point of Aspect)에 집중하도록 지원하는 것 
 
