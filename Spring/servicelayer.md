@@ -1,10 +1,10 @@
 # Service Layer of Spring
 
-[spring web layer](https://user-images.githubusercontent.com/88543657/133958708-4a020612-4bc6-4efc-be65-59803cfdd72b.JPG)
+
 
 [spring web layer](https://lifelife7777.tistory.com/100)
 
-? Service layer vs Business layer [참고링크](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658090(v=pandp.10)?redirectedfrom=MSDN)
+Service layer vs Business layer [참고링크](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658090(v=pandp.10)?redirectedfrom=MSDN)
 
 전통 아키텍쳐에서는 분명 독립 개념이나, 서로 인접 개념으로서 현실에서는 구분이 불명확하게 쓰이기 쉽다고 생각
 
