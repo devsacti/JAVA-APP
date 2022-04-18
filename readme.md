@@ -5,7 +5,7 @@
 
 ##
 
-#### [spring-review(Adam-Review)](https://eveadam.atlassian.net/wiki/spaces/AGILE/pages/5210113/spring+review+board+adam-review)
+#### [spring-CRUD(eveadam-blog)](https://github.com/devsacti/eveadam-blog)
 front : jsp with tiles(3.0.7) 
 
 back : java 1.8 and spring framework(4.3.18)
@@ -15,6 +15,8 @@ persistence framework : mybatis(3.5.9)
 database : oracle 18c
 
 IDE : eclipse with plugin of Spring Tools 3(3.9.14)
+
+[confluence](https://eveadam.atlassian.net/wiki/spaces/AGILE/pages/5210113/spring+review+board+adam-review)
 
 ##
 
