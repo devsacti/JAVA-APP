@@ -15,7 +15,7 @@
 * 내가만든 기능
   * 세부기능1 제품상세 Like,댓글 및 이미지 S3 업로드 연동
   * 세부기능2 장바구니 기능 구현 및 아임포트 주문결제서비스 연동
-  * 세부기능3 크롤링을 통한 hmall 상품데이터 Insert 반자동화
+  * 세부기능3 크롤링을 통한 상품데이터 Insert 반자동화
 
 * 기술 개요
   * jsp, jquery, spring framework, oracleDB, aws s3, beautifulsoup, etc
