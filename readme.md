@@ -6,7 +6,7 @@
 ## Team
 
 #### shoppingMall
-🚩 private repo, if you wants more detail, ASK ME
+🚩 private repo for other contributors
 
 * 목표 : 상품조회부터 주문결제, 고객센터까지의 쇼핑몰 핵심서비스 구현
 
@@ -20,7 +20,8 @@
 * 기술 개요
   * jsp, jquery, spring framework, oracleDB, aws s3, beautifulsoup, etc
 
-
+#####
+if you want more detail, Ask me please.
 
 
 ## Personal
