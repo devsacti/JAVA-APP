@@ -5,7 +5,7 @@
 
 ## Team
 
-#### [shoppingMall]()
+#### shoppingMall
 🚩 private repo, ASK ME
 
 * 목표 : 상품조회부터 주문결제, 고객센터까지의 쇼핑몰 핵심서비스 구현
@@ -18,7 +18,7 @@
   * 세부기능3 크롤링을 통한 hmall 상품데이터 Insert 반자동화
 
 * 기술 개요
-  * jsp, jquery, spring framework, oracleDB [More detail](https://github.com/devsacti/eveadam_blog)
+  * jsp, jquery, spring framework, oracleDB, aws s3, beautifulsoup
 
 
 
