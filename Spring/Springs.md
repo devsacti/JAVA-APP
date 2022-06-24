@@ -1,16 +1,20 @@
 # Spring framework
 (TO ME) Spring Legacy Project && Spring MVC Project with Maven
 
-단어적으론 spring legacy prj, spring boot prj, spring cloud prj 등등 모두 해당가능하지만, 이 중 spring legacy prj 만 사용
+단어적으론 spring legacy prj, spring boot prj, spring cloud prj 등등 모두 해당가능하지만, 이 중 spring legacy prj 중심
 
 ## Main Features
-DI and IoC, AOP, PSA
+* DI & IoC 
+* AOP
+* PSA
 
-#### Dependency Injection and Inversion of Control
+####
+
+#### DI & IoC: Dependency Injection and Inversion of Control
 (TO ME) spring (IoC) container에 의한 의존객체 주입
 
 ###### Dependency and How to deal with(IoC)
-자바 클래스 간 의존성 이란 ? 현재 클래스 안에 다른 클래스가 new 되어 있는 것, 한편으로는 피할 수 없는 것
+자바 클래스 간 '의존성' 이란 ? 현재 클래스 안에 다른 클래스가 new 되어 있는 것, 한편으로는 피할 수 없는 것.
 
 의존성로 인해서 다른 클래스가 변동 시 현재 클래스도 다시 컴파일되야 하고, 복잡한 구조에서는 개발 시 변동에 따른 코딩 작업량이 급증하기 좋음
 
@@ -22,11 +26,10 @@ DI and IoC, AOP, PSA
 
 => 테스트 용이, 코드 확장 용이, 순환참조 방지
 
-
 ###### Bean
 기존 '객체'로 정의되던 클래스(혹은 인스턴스)들이 Spring IoC Container에 등록저장되어 제어될 경우 '빈(bean)'이라는 개념으로 재정의(혹은 맵핑)된다.
 
-초기 spring의 경우, 개발자가 xml 등을 활용 우선 직접 입력, 혹은 spring boot의 경우 어노테이션 like @Controller 등 을 통해서 등록 
+초기 spring의 경우, 개발자가 xml 등을 활용 우선 직접 입력, 혹은 spring boot의 경우 어노테이션, 가령 @Component, @Controller 등, 을 통해서 등록 
 
 [참고링크](https://atoz-develop.tistory.com/entry/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88Bean%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%83%9D%EC%84%B1-%EC%9B%90%EB%A6%AC)
 
@@ -41,6 +44,7 @@ Ex) BeanFactory , ApplicationContext
 
 [참고링크](https://gmlwjd9405.github.io/2018/11/09/dependency-injection.html)
 
+####
 
 #### AOP : Aspect Oriented Programming
 (TO ME)횡단 관심사를 해결하는것
@@ -60,9 +64,9 @@ process 3 : (=====)|=====================>
 
 | 에 의해 만나면 공용을 쓴다는 느낌, 이때 | 는 메소드단위나 클래스단위 등 옵션에 따라 다양한 것으로 보인다.
 
+####
 
 #### PSA : Portable Service Abstraction
-
 
 @Transactional 어노테이션만으로 DB 접근의 여러 절차를 자동 지원하게 해주는 스프링 기능
 

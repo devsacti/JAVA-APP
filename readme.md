@@ -3,20 +3,38 @@
 
 ## Projects 
 
-##
+## Team
 
-#### [spring-CRUD(eveadam-blog)](https://github.com/devsacti/eveadam-blog)
-front : jsp with tiles(3.0.7) 
+#### [shoppingMall]()
+🚩 private repo, ASK ME
 
-back : java 1.8 and spring framework(4.3.18)
+* 목표 : 상품조회부터 주문결제, 고객센터까지의 쇼핑몰 핵심서비스 구현
 
-persistence framework : mybatis(3.5.9)
+* 나의 역할 : 풀스택개발자
 
-database : oracle 18c
+* 내가만든 기능
+  * 세부기능1 제품상세 Like,댓글 및 이미지 S3 업로드 연동
+  * 세부기능2 장바구니 기능 구현 및 아임포트 주문결제서비스 연동
+  * 세부기능3 크롤링을 통한 hmall 상품데이터 Insert 반자동화
 
-IDE : eclipse with plugin of Spring Tools 3(3.9.14)
+* 기술 개요
+  * jsp, jquery, spring framework, oracleDB [More detail](https://github.com/devsacti/eveadam_blog)
 
-[confluence](https://eveadam.atlassian.net/wiki/spaces/AGILE/pages/5210113/spring+review+board+adam-review)
+
+
+
+## Personal
+
+#### [eveadam_blog](https://github.com/devsacti/eveadam_blog)
+* 목표 : spring 기반 CRUD 학습
+
+* 기능
+  * 세부기능1 게시판 CRD with 트랜잭션
+  * 세부기능2 게시판별 게시글 CRUD with 트랜잭션
+  * 세부기능3 게시글별 댓글 CRD
+
+* 기술 개요
+  * jsp, jquery, spring framework, oracleDB [More detail](https://github.com/devsacti/eveadam_blog)
 
 ##
 
