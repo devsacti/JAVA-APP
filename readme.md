@@ -5,8 +5,7 @@
 
 ## Team
 
-#### shoppingMall
-🚩 private repo for other contributors
+#### [shoppingMall](https://github.com/Hyundai-SW-Developer-3rd-Team04/kosa_msa_final_project)
 
 * 목표 : 상품조회부터 주문결제, 고객센터까지의 쇼핑몰 핵심서비스 구현
 
