@@ -4,19 +4,6 @@
 
 ##
 
-#### springboot2-practices
-IDE-BuildTOOl : Intellij-Gradle 6.x
-
-Overview : http req-res, server communication by java controller/OpenAPI, JPA-h2
-
-[devsacti-springboot2-todolist](https://github.com/devsacti/devsacti-springboot2-todolist)
-
-[springboot-client](https://github.com/devsacti/springboot-client)🏴(readme not yet)
-
-[springboot-server](https://github.com/devsacti/springboot-server)🏴(readme not yet)
-
-##
-
 #### [devsacti-review-webservice]()
 🚩 private repo , 관련 계정 정보 처리 후 별도 업로드 예정 
 
@@ -46,7 +33,7 @@ Overview : mustache, jquery, java Controller/OpenAPI, JPA-AWS RDS, AWS EC2 to de
 
 ##
 
-#### [review]()
+#### review
 
 front : jsp with tiles(3.0.7) 
 
